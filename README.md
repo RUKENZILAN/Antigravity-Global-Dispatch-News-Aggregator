@@ -3,6 +3,7 @@
 **Global Dispatch** is a clean, minimalist web application that aggregates breaking news and top stories from the world's most trusted international news networks. Built completely from scratch without heavy frameworks, it is designed to give you a rapid, distraction-free view of global events with a sleek aesthetic. 
 
 The site automatically polls live RSS feeds from the BBC, CNN, El Mundo, The New York Times (NYT), Al Jazeera, and Deutsche Welle (DW), combining them into one seamless feed.
+It is already published under intnewsdispatch.com domain.
 
 ## 🧠 Technical Highlights & The NYT Issue
 While building this project, we encountered interesting data formatting quirks from different international networks that required robust failsafes:
