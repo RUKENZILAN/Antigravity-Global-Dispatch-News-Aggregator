@@ -43,4 +43,4 @@ Since this project is completely vanilla, there is zero setup required! No `npm 
 - **rss2json API** (Used to bypass browser CORS restrictions and cleanly parse raw RSS XML feeds into JSON)
 
 ## 📸 Screenshots
-*(You can add your own screenshots here!)*
+Published: https://intnewsdispatch.com/
